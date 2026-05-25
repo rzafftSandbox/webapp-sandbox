@@ -37,3 +37,18 @@ Create frontend folder (React JS): `npm create vite@latest frontend -- --templat
   npm run dev
 ================================================================================================================
 ```
+
+## Run Frontend 
+
+```
+cd frontend
+npm install
+npm run dev
+```
+
+## Run Backend
+
+```
+cd backend
+dotnet run
+```
